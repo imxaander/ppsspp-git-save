@@ -1,0 +1,12 @@
+.vscode/
+
+#libgits
+libgit2/*   
+!libgit2/.git*
+
+#libgit2-build
+libgit2-build/
+
+#imxgits
+build/
+
